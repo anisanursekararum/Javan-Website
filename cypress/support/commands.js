@@ -10,7 +10,13 @@
 //
 //
 // -- This is a parent command --
-// Cypress.Commands.add('login', (email, password) => { ... })
+Cypress.Commands.add('button', (locator) => { 
+  cy.get(locator).should('be.visible').click()
+})
+
+Cypress.Commands.add('input', (locator, value) => { 
+  cy.get(locator).should('be.visible').type(value)
+})
 //
 //
 // -- This is a child command --
