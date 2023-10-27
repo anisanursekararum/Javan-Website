@@ -4,11 +4,13 @@
   "description": "recruitment test QA javan",
   "main": "index.js",
   "scripts": {
+    "javan": "npx cypress run --browser edge --spec 'cypress/e2e/3-javan/*'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "anisa nur sekar arum",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.3.3"
+    "cypress": "^13.3.3",
+    "cypress-file-upload": "^5.0.8"
   }
 }
