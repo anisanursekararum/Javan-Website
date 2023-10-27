@@ -6,5 +6,20 @@
   "phoneInvalid" : "ASDAFD",
   "company" : "Strickland and Huff Plc",
   "subject" : "Ads",
-  "messages" : "Odio ipsum delenitiOdio ipsum delenitiOdio ipsum deleniti"
+  "messages" : "Odio ipsum delenitiOdio ipsum delenitiOdio ipsum deleniti",
+  "job" : "quality",
+  "calendarYear" : "2001",
+  "calendarMonth" : "January",
+  "birthPlace" : "Surabaya",
+  "genderMale" : "Male",
+  "eduS1" : "S1",
+  "univ" : "Binus University",
+  "join" : "Immediately",
+  "working" : "Remote Working",
+  "address" : "Imam Bonjol 1 Malang",
+  "about" : "Lorem ipsum delenitiOdio",
+  "porto" : "https://anisanursekararum.github.io/",
+  "linkedin" : "https://www.linkedin.com/in/anisa-nur-sekar-arum",
+  "source" : "Search Engine",
+  "smoke" : "No"
 }
